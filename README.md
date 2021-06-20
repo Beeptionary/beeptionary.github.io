@@ -1,6 +1,17 @@
 # Beeptionary
 An Official Unofficial Dictionary of Beeps - https://beeptionary.github.io/
 
+## Using
+Press Ctrl + F (or Control + F on Mac, ig)
+Search for the word
+
+
+## Criteria for words
+<ul>
+  <li>Word can contain several sounds like "Beep, bop, skdoo, bap" and other sounds that Boyfriend emits</li>
+  <li>Word can be long, but it should not be too long</li>
+</ul>
+
 ## Contributing
 Contributing is really easy.
 You just need to open [index.html](index.html) and then you can press the little ![image](https://user-images.githubusercontent.com/86181082/122671595-47602300-d1e9-11eb-8b60-398c79813869.png) button to open a file editor.
