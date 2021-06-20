@@ -22,7 +22,7 @@ After that press "Propose Changes" button, when you did it, all is left - is jus
 
 When you create a pull request, it will be queued for a review. If we think that the word is good, we will add it to the Beeptionary.
 
-##Attention
+## Attention
 Before contributing, if you already have a fork(It gets created the first time you contribute), please make sure it's the latest version. If it's not then press "Fetch Upstream" button, it should be on the fork page.
 
 ### Example
