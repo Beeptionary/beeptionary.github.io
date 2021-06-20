@@ -1,0 +1,30 @@
+/**Please don't judge me i am bad at css pls no beat me, OUCH**/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background-color: #1E1E1E;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;}
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+li {
+    font-family: 'Roboto';
+    color: white;
+    list-style-type: none;
+}
+a {
+	color: #318CE7;
+	text-decoration: none;
+}
