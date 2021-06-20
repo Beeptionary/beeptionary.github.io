@@ -1,5 +1,5 @@
 # Beeptionary
-An Official Unofficial Dictionary of Beeps
+An Official Unofficial Dictionary of Beeps - https://beeptionary.github.io/
 
 ## Contributing
 Contributing is really easy.
