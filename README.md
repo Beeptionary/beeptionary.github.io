@@ -7,7 +7,9 @@ You just need to open [index.html](index.html) and then you can press the little
 
 Each `<li>` element is 1 word. So basically just add another `<li></li>` tag. And put a word with translation in it.
 
-After that, just press "Commit Changes" button
+After that press "Propose Changes" button, when you did it, all is left - is just to press "Create Pull Request" button.
+
+When you create a pull request, it will be queued for a review. If we think that the word is good, we will add it to the Beeptionary.
 
 ### Example
 `<li>Beep - Pog</li>`
