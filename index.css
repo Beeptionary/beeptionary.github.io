@@ -23,6 +23,7 @@ li {
     font-family: 'Roboto';
     color: white;
     list-style-type: none;
+    font-size: 135%;
 }
 a {
 	color: #318CE7;
